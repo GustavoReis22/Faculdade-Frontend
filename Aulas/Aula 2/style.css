@@ -1,0 +1,47 @@
+header{
+    background-color: blueviolet;
+    text-align: center;
+    color: rgb(209, 160, 255);
+    padding: 7px;
+}
+nav{
+    background-color: blueviolet;
+}
+section{
+    background-color: blueviolet;
+    border: solid;
+    margin: 5px;
+}
+
+nav ul{
+    list-style: none;
+    text-align: center;
+    margin: 0;
+}
+
+nav ul li{
+    display: inline;
+    margin: 15px;
+    padding: 5px;
+}
+
+
+nav ul li a{
+    color: rgb(102, 0, 82);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+}
+
+footer{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    color: azure;
+    padding: 10px;
+
+
+    /* Filtar Rodapé*/
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
